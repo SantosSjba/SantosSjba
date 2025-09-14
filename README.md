@@ -66,20 +66,6 @@ const santos = {
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **🌟 Project Alpha** | React + Node.js | Modern web application with real-time features |
-| **🚀 Project Beta** | Vue.js + Laravel | E-commerce platform with admin dashboard |
-| **💎 Project Gamma** | PHP + MySQL | Custom CMS with advanced functionality |
-
-</div>
-
----
-
 <div align="center">
 
 ## 🤝 Let's Connect
