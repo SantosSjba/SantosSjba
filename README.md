@@ -1,22 +1,8 @@
-<div align="center">
-
-# Santos Jesús Bernui Acevedo
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Digital+Solutions" alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0891b2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Perú-ff6b6b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4ecdc4?style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-## 💫 About Me
-
-Desarrollador Full Stack con pasión por crear aplicaciones web modernas y eficientes. Me especializo en tecnologías JavaScript y PHP, con experiencia en desarrollo frontend y backend.
+# Santos Jesús Bernui Acevedo   
+    
+ 
+## 💫 About Me   
+Desarrollador Full Stack con pasión por crear aplicaciones web modernas y eficientes. Me especializo en tecnologías JavaScript y PHP, con experiencia en desarrollo frontend y backend. Actualmente trabajando en mi propio negocio **FactosysPeru**.
 
 ```javascript
 const santos = {
@@ -27,79 +13,49 @@ const santos = {
     databases: ["MySQL", "PostgreSQL", "MongoDB"]
   },
   currentFocus: "Building scalable web applications",
+  business: "FactosysPeru - Soluciones tecnológicas",
   challenge: "Learning new technologies every day"
-}
+} 
 ```
-
----
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind" />
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,express" />
-
-**Database & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,docker,vscode" />
-
-</div>
-
----
-
-<div align="center">
+**Frontend**   | **Backend**   | **Database & Tools**
+-------------- | ------------- | -------------------
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YisusCode06&show_icons=true&theme=vue&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YisusCode06&layout=compact&theme=vue&hide_border=true" />
+![Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=santosjesus&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosjesus&layout=compact&theme=radical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YisusCode06&theme=vue&hide_border=true" />
+## 🚀 Current Project
 
-</div>
-
----
+### FactosysPeru
+🌐 **Website**: [factosysperu.com](https://factosysperu.com/)  
+💼 **Role**: Founder & Full Stack Developer  
+🎯 **Focus**: Desarrollando soluciones tecnológicas innovadoras para empresas peruanas
 
 ## 🎯 Featured Projects
 
-<div align="center">
-
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **🌟 Project Alpha** | React + Node.js | Modern web application with real-time features |
-| **🚀 Project Beta** | Vue.js + Laravel | E-commerce platform with admin dashboard |
+| **🌟 FactosysPeru Platform** | Laravel + Vue.js | Plataforma integral de soluciones empresariales |
+| **🚀 Project Beta** | React + Node.js | E-commerce platform with real-time features |
 | **💎 Project Gamma** | PHP + MySQL | Custom CMS with advanced functionality |
-
-</div>
-
----
-
-<div align="center">
 
 ## 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/santos-bernui">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:santos.bernui@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://santos-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosjesus)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santos@factosysperu.com)
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://factosysperu.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/santosjesus)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YisusCode06&color=0891b2&style=for-the-badge" />
-
 *"Code is poetry written in logic"*
 
-⭐ **Thanks for visiting!** Feel free to explore my repositories
-
-</div>
+⭐ **Thanks for visiting!** Feel free to explore my repositories and learn more about **FactosysPeru**
