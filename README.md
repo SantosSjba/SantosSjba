@@ -57,10 +57,10 @@ const santos = {
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YisusCode06&show_icons=true&theme=vue&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YisusCode06&layout=compact&theme=vue&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantosSjba&show_icons=true&theme=vue&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosSjba&layout=compact&theme=vue&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YisusCode06&theme=vue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantosSjba&theme=vue&hide_border=true" />
 
 </div>
 
@@ -82,7 +82,7 @@ const santos = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YisusCode06&color=0891b2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=SantosSjba&color=0891b2&style=for-the-badge" />
 
 *"Code is poetry written in logic"*
 
