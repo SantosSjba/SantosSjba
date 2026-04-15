@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=140&section=header&text=Santos%20Bernui&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=65&descColor=e0f7ff" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d2137&height=140&section=header&text=Santos%20Bernui&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=65&descColor=7ecfea" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+%26+Mobile+Developer+%F0%9F%93%B1;PHP+%7C+JavaScript+%7C+TypeScript+Expert;Building+Scalable+Web+%26+Mobile+Apps;BIM+%26+Construction+Tech+Enthusiast" alt="Typing SVG" />
 
 <br/>
