@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- Banner animado con wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120§ion=header&text=Santos%20Bernui&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=60&descColor=c7f3ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=140&section=header&text=Santos%20Bernui&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20%7C%20Flutter%20Developer&descAlignY=65&descColor=e0f7ff" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+%26+Mobile+Developer+%F0%9F%93%B1;PHP+%7C+JavaScript+%7C+TypeScript+Expert;Building+Scalable+Web+%26+Mobile+Apps;BIM+%26+Construction+Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+%26+Mobile+Developer+%F0%9F%93%B1;PHP+%7C+JavaScript+%7C+TypeScript+Expert;Building+Scalable+Web+%26+Mobile+Apps;BIM+%26+Construction+Tech+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-0891b2?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Trujillo%2C%20Perú-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Trujillo%2C%20Per%C3%BA-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4ecdc4?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
@@ -119,8 +118,8 @@ class SantosBernui extends Developer {
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=%22Si%20lo%20puedes%20imaginar%2C%20lo%20puedes%20programar%22&fontSize=16&fontColor=0891b2&desc=—%20Alejandro%20Taboada%20(ATS)&descAlignY=75&descColor=4a9ab5&fontAlignY=38" width="100%"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=80§ion=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=80&section=footer" />
