@@ -117,7 +117,7 @@ class SantosBernui extends Developer {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=%22Si%20lo%20puedes%20imaginar%2C%20lo%20puedes%20programar%22&fontSize=16&fontColor=0891b2&desc=—%20Alejandro%20Taboada%20(ATS)&descAlignY=75&descColor=4a9ab5&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a5f7a&height=60&text=%22Si%20lo%20puedes%20imaginar%2C%20lo%20puedes%20programar%22&fontSize=16&fontColor=ffffff&desc=—%20Alejandro%20Taboada%20(ATS)&descAlignY=75&descColor=c7f3ff&fontAlignY=38" width="100%"/>
 
 </div>
 
