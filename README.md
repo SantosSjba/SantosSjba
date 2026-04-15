@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santos%20Bernui&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20BIM%20Tech&descAlignY=62&descColor=a8d8ea&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santos%20Bernui&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20BIM%20Tech&descAlignY=62&descColor=a8d8ea&descSize=18" />
 
 </div>
 
@@ -31,45 +31,51 @@
 
 ## 👨‍💻 About Me
 
-```dart
-// santos_bernui.dart — v2.0
-class SantosBernui extends FullStackDeveloper {
+```python
+# santos_bernui.py — v2.0
 
-  // ── Identity ───────────────────────────────────────────────
-  final String name      = "Santos Jesús Bernui Acevedo";
-  final String role      = "Full Stack & Flutter Developer";
-  final String location  = "Trujillo, Perú 🇵🇪";
-  final String degree    = "B.Sc. Ingeniería de Sistemas Computacionales — UPN";
-  final String xp        = "+2 years building web & mobile products";
+class SantosBernui:
+    """Full Stack Developer based in Trujillo, Perú 🇵🇪"""
 
-  // ── Languages ──────────────────────────────────────────────
-  final List<String> languages = [
-    "Dart", "TypeScript", "JavaScript", "PHP",
-    "Kotlin", "C#", "Java", "C++"
-  ];
+    # ── Identity ───────────────────────────────────────────────
+    name      = "Santos Jesús Bernui Acevedo"
+    role      = "Full Stack Developer"
+    location  = "Trujillo, Perú 🇵🇪"
+    degree    = "B.Sc. Ingeniería de Sistemas Computacionales — UPN"
+    xp        = "+2 years building web & mobile products"
 
-  // ── Stack ──────────────────────────────────────────────────
-  final Map<String, List<String>> stack = {
-    "mobile"   : ["Flutter", "Kotlin", "Android Studio"],
-    "frontend" : ["Vue.js", "React", "Angular", "Astro", "Tailwind CSS"],
-    "backend"  : ["Laravel", "NestJS", "PHP Lumen", "Express", "Node.js"],
-    "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQL Server"],
-    "devops"   : ["Docker", "AWS", "VPS", "CI/CD", "GitHub Actions"],
-    "tools"    : ["Postman", "JWT", "Jira", "Monday", "PMBOK"],
-  };
+    # ── Languages ──────────────────────────────────────────────
+    languages: list[str] = [
+        "Python", "TypeScript", "JavaScript", "PHP",
+        "Dart", "Kotlin", "C#", "Java", "C++"
+    ]
 
-  // ── Current Focus ──────────────────────────────────────────
-  final String currentWork = "GVR Peruvian Engineers — Autodesk ACC Integration";
-  final String learning    = "Microservices, GraphQL, Kubernetes";
-  final String superpower  = "Turn complex APIs into seamless user experiences ⚡";
+    # ── Stack ──────────────────────────────────────────────────
+    stack: dict[str, list[str]] = {
+        "mobile"   : ["Flutter", "Kotlin", "Android Studio"],
+        "frontend" : ["Vue.js", "React", "Angular", "Astro", "Tailwind CSS"],
+        "backend"  : ["Laravel", "NestJS", "PHP Lumen", "Express", "Node.js"],
+        "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQL Server"],
+        "devops"   : ["Docker", "AWS", "VPS", "CI/CD", "GitHub Actions"],
+        "tools"    : ["Postman", "JWT", "Jira", "Monday", "PMBOK"],
+    }
 
-  @override
-  String get status => "✅ Open to Work — Remote & Relocation";
+    # ── Current Focus ──────────────────────────────────────────
+    current_work = "GVR Peruvian Engineers — Autodesk ACC Integration"
+    learning     = "Microservices, GraphQL, Kubernetes"
+    superpower   = "Turn complex APIs into seamless user experiences ⚡"
 
-  @override
-  String toString() => "Ship fast. Learn faster. Build with purpose. 🚀";
-}
-```
+    @property
+    def status(self) -> str:
+        return "✅ Open to Work — Remote & Relocation"
+
+    def __str__(self) -> str:
+        return "Ship fast. Learn faster. Build with purpose. 🚀"
+
+
+me = SantosBernui()
+print(me)
+` `` 
 
 ---
 
@@ -185,3 +191,4 @@ class SantosBernui extends FullStackDeveloper {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+```
